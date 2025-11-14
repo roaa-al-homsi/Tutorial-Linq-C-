@@ -1,0 +1,7 @@
+C:\Users\Ruaa\source\repos\PracticeLinqLesson1\bin\Debug\PracticeLinqLesson1.exe.config
+C:\Users\Ruaa\source\repos\PracticeLinqLesson1\bin\Debug\PracticeLinqLesson1.exe
+C:\Users\Ruaa\source\repos\PracticeLinqLesson1\bin\Debug\PracticeLinqLesson1.pdb
+C:\Users\Ruaa\source\repos\PracticeLinqLesson1\obj\Debug\PracticeLinqLesson1.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\PracticeLinqLesson1\obj\Debug\PracticeLinqLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\PracticeLinqLesson1\obj\Debug\PracticeLinqLesson1.exe
+C:\Users\Ruaa\source\repos\PracticeLinqLesson1\obj\Debug\PracticeLinqLesson1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ruaa\source\repos\FunctionalProgramming\bin\Debug\FunctionalProgramming.dll
+C:\Users\Ruaa\source\repos\FunctionalProgramming\bin\Debug\FunctionalProgramming.pdb
+C:\Users\Ruaa\source\repos\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\FunctionalProgramming\obj\Debug\FunctionalProgramming.dll
+C:\Users\Ruaa\source\repos\FunctionalProgramming\obj\Debug\FunctionalProgramming.pdb

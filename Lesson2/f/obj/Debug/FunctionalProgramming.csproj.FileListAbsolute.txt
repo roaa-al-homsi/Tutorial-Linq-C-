@@ -1,0 +1,14 @@
+C:\Users\Ruaa\source\repos\f\bin\Debug\f.exe.config
+C:\Users\Ruaa\source\repos\f\bin\Debug\f.exe
+C:\Users\Ruaa\source\repos\f\bin\Debug\f.pdb
+C:\Users\Ruaa\source\repos\f\obj\Debug\FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\f\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\f\obj\Debug\f.exe
+C:\Users\Ruaa\source\repos\f\obj\Debug\f.pdb
+C:\Users\Ruaa\source\repos\tutorial-Linq\f\bin\Debug\f.exe.config
+C:\Users\Ruaa\source\repos\tutorial-Linq\f\bin\Debug\f.exe
+C:\Users\Ruaa\source\repos\tutorial-Linq\f\bin\Debug\f.pdb
+C:\Users\Ruaa\source\repos\tutorial-Linq\f\obj\Debug\FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\tutorial-Linq\f\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\tutorial-Linq\f\obj\Debug\f.exe
+C:\Users\Ruaa\source\repos\tutorial-Linq\f\obj\Debug\f.pdb

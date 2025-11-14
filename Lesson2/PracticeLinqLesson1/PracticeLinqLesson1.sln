@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeLinqLesson1", "PracticeLinqLesson1.csproj", "{9E4BC9AA-EB6D-4C1C-B1EF-B5CF3BAECEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "..\f\FunctionalProgramming.csproj", "{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4BC9AA-EB6D-4C1C-B1EF-B5CF3BAECEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4BC9AA-EB6D-4C1C-B1EF-B5CF3BAECEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4BC9AA-EB6D-4C1C-B1EF-B5CF3BAECEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4BC9AA-EB6D-4C1C-B1EF-B5CF3BAECEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E55B9E-CBF6-46A2-AB1C-A7D2A6395961}
+	EndGlobalSection
+EndGlobal
