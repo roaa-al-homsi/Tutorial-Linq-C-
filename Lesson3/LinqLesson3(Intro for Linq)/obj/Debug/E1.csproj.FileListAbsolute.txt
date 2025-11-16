@@ -1,0 +1,7 @@
+C:\Users\Ruaa\source\repos\LinqLesson3(Intro for Linq)\bin\Debug\LinqLesson3(Intro for Linq).exe.config
+C:\Users\Ruaa\source\repos\LinqLesson3(Intro for Linq)\bin\Debug\LinqLesson3(Intro for Linq).exe
+C:\Users\Ruaa\source\repos\LinqLesson3(Intro for Linq)\bin\Debug\LinqLesson3(Intro for Linq).pdb
+C:\Users\Ruaa\source\repos\LinqLesson3(Intro for Linq)\obj\Debug\E1.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\LinqLesson3(Intro for Linq)\obj\Debug\E1.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\LinqLesson3(Intro for Linq)\obj\Debug\LinqLesson3(Intro for Linq).exe
+C:\Users\Ruaa\source\repos\LinqLesson3(Intro for Linq)\obj\Debug\LinqLesson3(Intro for Linq).pdb

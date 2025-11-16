@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\PracticeLinqLesson1\\",
+  "WorkspaceRootPath": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\PracticeLinqLesson1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}|..\\f\\FunctionalProgramming.csproj|c:\\users\\ruaa\\source\\repos\\tutorial-linq\\f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}|..\\f\\FunctionalProgramming.csproj|c:\\users\\ruaa\\source\\repos\\tutorial-linq\\lesson2\\f\\extensionprocedural02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}|..\\f\\FunctionalProgramming.csproj|c:\\users\\ruaa\\source\\repos\\tutorial-linq\\lesson2\\f\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}|..\\f\\FunctionalProgramming.csproj|c:\\users\\ruaa\\source\\repos\\tutorial-linq\\lesson2\\f\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C1D5B6-0B8F-4EC4-AB3E-F1FC0B296071}|..\\f\\FunctionalProgramming.csproj|c:\\users\\ruaa\\source\\repos\\tutorial-linq\\lesson2\\f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\f\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ruaa\\source\\repos\\f\\ExtensionProcedural02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -28,36 +40,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\f\\Program.cs",
-              "RelativeDocumentMoniker": "..\\f\\Program.cs",
-              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\f\\Program.cs",
-              "RelativeToolTip": "..\\f\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ExtensionProcedural02.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\ExtensionProcedural02.cs",
+              "RelativeDocumentMoniker": "..\\f\\ExtensionProcedural02.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\ExtensionProcedural02.cs",
+              "RelativeToolTip": "..\\f\\ExtensionProcedural02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T19:29:37.011Z",
+              "WhenOpened": "2025-11-16T21:32:00.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\f\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\Employee.cs",
+              "RelativeToolTip": "..\\f\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:29:07.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\f\\Repository.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\Repository.cs",
+              "RelativeToolTip": "..\\f\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:28:14.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\Program.cs",
+              "RelativeDocumentMoniker": "..\\f\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson2\\f\\Program.cs",
+              "RelativeToolTip": "..\\f\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:24:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\f\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\f\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\f\\Program.cs",
+              "RelativeToolTip": "..\\..\\f\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:29:37.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\f\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\f\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\f\\Program.cs",
               "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\f\\Program.cs",
-              "RelativeToolTip": "..\\..\\f\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAGEAAAAfAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\f\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T13:16:56.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ExtensionProcedural02.cs",
               "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\f\\ExtensionProcedural02.cs",
-              "RelativeDocumentMoniker": "..\\..\\f\\ExtensionProcedural02.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\f\\ExtensionProcedural02.cs",
               "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\f\\ExtensionProcedural02.cs",
-              "RelativeToolTip": "..\\..\\f\\ExtensionProcedural02.cs",
+              "RelativeToolTip": "..\\..\\..\\f\\ExtensionProcedural02.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T18:50:16.404Z"
             }
