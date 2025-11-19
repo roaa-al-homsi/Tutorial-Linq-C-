@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B3C4DB78-54E9-43B5-B76A-9FCEBD89C766}</ProjectGuid>
+    <ProjectGuid>{95F534EA-CBEA-433A-B573-69AD176F0865}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ex2</RootNamespace>
-    <AssemblyName>Ex2</AssemblyName>
+    <RootNamespace>Ex3</RootNamespace>
+    <AssemblyName>Ex3</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LinqLesson3%28Intro for Linq%29\E1.csproj">
-      <Project>{34A0E58E-6F6E-4E68-B35A-F4AD624859BD}</Project>
+      <Project>{34a0e58e-6f6e-4e68-b35a-f4ad624859bd}</Project>
       <Name>E1</Name>
     </ProjectReference>
   </ItemGroup>

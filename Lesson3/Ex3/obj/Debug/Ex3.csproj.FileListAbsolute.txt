@@ -1,0 +1,11 @@
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\bin\Debug\Ex3.exe.config
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\bin\Debug\Ex3.exe
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\bin\Debug\Ex3.pdb
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\bin\Debug\LinqLesson3(Intro for Linq).exe
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\bin\Debug\LinqLesson3(Intro for Linq).pdb
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\bin\Debug\LinqLesson3(Intro for Linq).exe.config
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\obj\Debug\Ex3.csproj.Up2Date
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\obj\Debug\Ex3.exe
+C:\Users\Ruaa\source\repos\tutorial-Linq\Lesson3\Ex3\obj\Debug\Ex3.pdb
