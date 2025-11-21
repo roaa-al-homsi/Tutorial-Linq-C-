@@ -4,6 +4,9 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{95F534EA-CBEA-433A-B573-69AD176F0865}|..\\Ex3\\Ex3.csproj|c:\\users\\ruaa\\source\\repos\\tutorial-linq\\lesson3\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C4DB78-54E9-43B5-B76A-9FCEBD89C766}|..\\Ex2\\Ex2.csproj|c:\\users\\ruaa\\source\\repos\\tutorial-linq\\lesson3\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,11 +16,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson3\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson3\\Ex2\\Program.cs",
+              "RelativeToolTip": "..\\Ex2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:01:17.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -27,7 +43,7 @@
               "RelativeDocumentMoniker": "..\\Ex3\\Program.cs",
               "ToolTip": "C:\\Users\\Ruaa\\source\\repos\\tutorial-Linq\\Lesson3\\Ex3\\Program.cs",
               "RelativeToolTip": "..\\Ex3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T14:56:07.503Z",
               "EditorCaption": ""
