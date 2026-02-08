@@ -1,0 +1,7 @@
+C:\Users\Ruaa\source\repos\traininng linq2\bin\Debug\traininng linq2.exe.config
+C:\Users\Ruaa\source\repos\traininng linq2\bin\Debug\traininng linq2.exe
+C:\Users\Ruaa\source\repos\traininng linq2\bin\Debug\traininng linq2.pdb
+C:\Users\Ruaa\source\repos\traininng linq2\obj\Debug\traininng linq2.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\traininng linq2\obj\Debug\traininng linq2.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\traininng linq2\obj\Debug\traininng linq2.exe
+C:\Users\Ruaa\source\repos\traininng linq2\obj\Debug\traininng linq2.pdb
